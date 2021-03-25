@@ -54,7 +54,7 @@ def hotstar(update,context):
                 [[
                     InlineKeyboardButton(
                         text="Join Us",
-                        url="t.me/heavenbots"
+                        url="t.me/MadPremium"
                     )
 
                 ]]
